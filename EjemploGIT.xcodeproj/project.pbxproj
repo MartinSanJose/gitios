@@ -15,6 +15,7 @@
 		5B4B93F3207FF64D0016D7BA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5B4B93F1207FF64D0016D7BA /* LaunchScreen.storyboard */; };
 		5B4B93FE207FF64D0016D7BA /* EjemploGITTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B4B93FD207FF64D0016D7BA /* EjemploGITTests.swift */; };
 		5B4B9409207FF64D0016D7BA /* EjemploGITUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B4B9408207FF64D0016D7BA /* EjemploGITUITests.swift */; };
+		5B4B9417207FFC080016D7BA /* SwitchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B4B9416207FFC080016D7BA /* SwitchViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		5B4B9404207FF64D0016D7BA /* EjemploGITUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = EjemploGITUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5B4B9408207FF64D0016D7BA /* EjemploGITUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EjemploGITUITests.swift; sourceTree = "<group>"; };
 		5B4B940A207FF64D0016D7BA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5B4B9416207FFC080016D7BA /* SwitchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwitchViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				5B4B93F1207FF64D0016D7BA /* LaunchScreen.storyboard */,
 				5B4B93F4207FF64D0016D7BA /* Info.plist */,
 				5B4B93EC207FF64B0016D7BA /* EjemploGIT.xcdatamodeld */,
+				5B4B9416207FFC080016D7BA /* SwitchViewController.swift */,
 			);
 			path = EjemploGIT;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 			files = (
 				5B4B93E8207FF64B0016D7BA /* ViewController.swift in Sources */,
 				5B4B93E6207FF64B0016D7BA /* AppDelegate.swift in Sources */,
+				5B4B9417207FFC080016D7BA /* SwitchViewController.swift in Sources */,
 				5B4B93EE207FF64B0016D7BA /* EjemploGIT.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

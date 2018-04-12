@@ -18,6 +18,9 @@ class ViewController: UIViewController {
         
         print("Hola Mundo")
         
+        let switchController = SwitchViewController()
+        switchController.texto = "Hola Saturno"
+        
         
         
     }
